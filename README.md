@@ -1,6 +1,6 @@
-# Quick Quiz : A Quiz Platform
+# Quick Quiz : A Quiz Platform ✔️
 
-## Features
+## Features 🚀
 
 - **Multiple Choice Questions**: Answer a variety of quiz questions.
 - **Scoring System**: Tracks your score throughout the quiz.
@@ -11,7 +11,7 @@
 - **Store the quiz**: Store the historical data in IndexedDB
 - **Modern UI**: with user friendly functionalities
   
-  ## **📷 Screenshots**  
+## **📷 Screenshots**  
 
 ![Chat UI Preview](https://github.com/viksitt/Quick-Quiz/blob/main/Screenshot%202025-02-20%20140532.png)  
 ![Chat UI Preview]( https://github.com/viksitt/Quick-Quiz/blob/main/Screenshot%202025-02-20%20140555.png)  
