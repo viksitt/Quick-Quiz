@@ -8,8 +8,8 @@
 - **Attempt Tracking**: Users get 3 attempts per question.
 - **Dark Mode**: Toggle between light and dark themes.
 - **Responsive UI**: Works across all devices.
-- **Store the quiz historical data in IndexedDB
-- **Modern UI with user friendly functionalities
+- **Store the quiz**: Store the historical data in IndexedDB
+- **Modern UI**: with user friendly functionalities
 
 ## Deployment (VERCEL)
 
@@ -28,8 +28,8 @@ Ensure you have **Node.js** and **npm** installed on your system.
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-repo/quiz-platform.git
-   cd quiz-platform
+   git clone https://github.com/viksitt/Quick-Quiz
+   cd Quick-Quiz
    ```
 
 2. **Install dependencies**:
