@@ -10,6 +10,12 @@
 - **Responsive UI**: Works across all devices.
 - **Store the quiz**: Store the historical data in IndexedDB
 - **Modern UI**: with user friendly functionalities
+  
+  ## **📷 Screenshots**  
+
+![Chat UI Preview](https://github.com/viksitt/Quick-Quiz/blob/main/Screenshot%202025-02-20%20140532.png)  
+![Chat UI Preview]( https://github.com/viksitt/Quick-Quiz/blob/main/Screenshot%202025-02-20%20140555.png)  
+![Chat UI Preview](https://github.com/viksitt/Quick-Quiz/blob/main/Screenshot%202025-02-20%20140615.png)  
 
 ## Deployment (VERCEL)
 
