@@ -11,11 +11,11 @@
 - **Store the quiz historical data in IndexedDB
 - **Modern UI with user friendly functionalities
 
-## Deployment
+## Deployment (VERCEL)
 
 The application is deployed and can be accessed at:
 
-[Live Demo](https://your-deployed-link.com)
+[Live Demo](https://quick-quiz-orcin.vercel.app/)
 
 ## Installation & Setup
 
@@ -64,7 +64,5 @@ This will generate optimized files inside the `dist/` directory.
 - **Tailwind CSS**: Styling
 - **Vite**: Fast build tool
 
-## License
 
-This project is open-source under the MIT License.
 
